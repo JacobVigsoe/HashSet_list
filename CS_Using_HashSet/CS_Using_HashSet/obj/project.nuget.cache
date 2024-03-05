@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tMbdrSJTqnrgTmCxXlOJFnUzfd15UC4Ae1+dq8AG4w7LDS/bgIPBigzq6Wi3hotZjGdlYEjMMsUuF3Ieow/okA==",
+  "dgSpecHash": "detfd9+Si6Wt03tlInpLzZ3vzz1QsTMCcOzDA0BXiwCt8gOxYvKlILYmkZ4DgmafYoZlsEeiKue6RYQgIsrMXw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jacob\\source\\repos\\CS_Using_HashSet\\CS_Using_HashSet\\CS_Using_HashSet.csproj",
+  "projectFilePath": "C:\\Users\\jacob\\HashSet_list\\CS_Using_HashSet\\CS_Using_HashSet\\CS_Using_HashSet.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

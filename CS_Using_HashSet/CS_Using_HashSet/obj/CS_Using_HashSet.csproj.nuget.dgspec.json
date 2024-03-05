@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jacob\\source\\repos\\CS_Using_HashSet\\CS_Using_HashSet\\CS_Using_HashSet.csproj": {}
+    "C:\\Users\\jacob\\HashSet_list\\CS_Using_HashSet\\CS_Using_HashSet\\CS_Using_HashSet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jacob\\source\\repos\\CS_Using_HashSet\\CS_Using_HashSet\\CS_Using_HashSet.csproj": {
+    "C:\\Users\\jacob\\HashSet_list\\CS_Using_HashSet\\CS_Using_HashSet\\CS_Using_HashSet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jacob\\source\\repos\\CS_Using_HashSet\\CS_Using_HashSet\\CS_Using_HashSet.csproj",
+        "projectUniqueName": "C:\\Users\\jacob\\HashSet_list\\CS_Using_HashSet\\CS_Using_HashSet\\CS_Using_HashSet.csproj",
         "projectName": "CS_Using_HashSet",
-        "projectPath": "C:\\Users\\jacob\\source\\repos\\CS_Using_HashSet\\CS_Using_HashSet\\CS_Using_HashSet.csproj",
+        "projectPath": "C:\\Users\\jacob\\HashSet_list\\CS_Using_HashSet\\CS_Using_HashSet\\CS_Using_HashSet.csproj",
         "packagesPath": "C:\\Users\\jacob\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jacob\\source\\repos\\CS_Using_HashSet\\CS_Using_HashSet\\obj\\",
+        "outputPath": "C:\\Users\\jacob\\HashSet_list\\CS_Using_HashSet\\CS_Using_HashSet\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

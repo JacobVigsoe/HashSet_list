@@ -2,6 +2,12 @@
 using System.Collections.Generic;
 using System.Diagnostics;
 
+// Get_Add_Performance_HashSet_vs_List(); Hashset performs faster for some reason but in theory lists should be faster
+
+// Get_Contains_Performance_HashSet_vs_List(); Lists perform better 
+
+// Get_Remove_Performance_HashSet_vs_List(); Hashset performs faster 
+
 namespace CS_Using_HashSet
 {
     class Program
@@ -94,6 +100,8 @@ namespace CS_Using_HashSet
 
             Get_Contains_Performance_HashSet_vs_List();
 
+            Get_Remove_Performance_HashSet_vs_List();
+
         }
         static void Get_Add_Performance_HashSet_vs_List()
         {
@@ -161,6 +169,42 @@ namespace CS_Using_HashSet
 
             Console.WriteLine(s1.Elapsed.TotalMilliseconds.ToString("0.000 ms"));
             Console.WriteLine();
+            Console.WriteLine("Ends Here");
+            Console.WriteLine("____________________________________");
+            Console.WriteLine();
+
+        }
+
+        static void Get_Remove_Performance_HashSet_vs_List()
+        {
+
+            Console.WriteLine("____________________________________");
+            Console.WriteLine("List Performance while performing Remove item operation");
+            Console.WriteLine();
+            List<string> lstNames = new List<string>();
+            var s2 = Stopwatch.StartNew();
+            foreach (string s in names)
+            {
+                lstNames.Remove(s);
+            }
+            s2.Stop();
+
+            Console.WriteLine(s2.Elapsed.TotalMilliseconds.ToString("0.000 ms")); Console.WriteLine();
+            Console.WriteLine("Ends Here");
+            Console.WriteLine();
+            Console.WriteLine("____________________________________");
+            Console.WriteLine("HashSet Performance while performing Remove item operation");
+            Console.WriteLine();
+
+            HashSet<string> hStringNames = new HashSet<string>(StringComparer.Ordinal);
+            var s1 = Stopwatch.StartNew();
+            foreach (string s in names)
+            {
+                hStringNames.Remove(s);
+            }
+            s1.Stop();
+
+            Console.WriteLine(s1.Elapsed.TotalMilliseconds.ToString("0.000 ms")); Console.WriteLine();
             Console.WriteLine("Ends Here");
             Console.WriteLine("____________________________________");
             Console.WriteLine();
