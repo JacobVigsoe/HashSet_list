@@ -1,0 +1,14 @@
+C:\Users\jacob\source\repos\CS_Using_HashSet\CS_Using_HashSet\bin\Debug\net6.0\CS_Using_HashSet.exe
+C:\Users\jacob\source\repos\CS_Using_HashSet\CS_Using_HashSet\bin\Debug\net6.0\CS_Using_HashSet.deps.json
+C:\Users\jacob\source\repos\CS_Using_HashSet\CS_Using_HashSet\bin\Debug\net6.0\CS_Using_HashSet.runtimeconfig.json
+C:\Users\jacob\source\repos\CS_Using_HashSet\CS_Using_HashSet\bin\Debug\net6.0\CS_Using_HashSet.dll
+C:\Users\jacob\source\repos\CS_Using_HashSet\CS_Using_HashSet\bin\Debug\net6.0\CS_Using_HashSet.pdb
+C:\Users\jacob\source\repos\CS_Using_HashSet\CS_Using_HashSet\obj\Debug\net6.0\CS_Using_HashSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\source\repos\CS_Using_HashSet\CS_Using_HashSet\obj\Debug\net6.0\CS_Using_HashSet.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\CS_Using_HashSet\CS_Using_HashSet\obj\Debug\net6.0\CS_Using_HashSet.AssemblyInfo.cs
+C:\Users\jacob\source\repos\CS_Using_HashSet\CS_Using_HashSet\obj\Debug\net6.0\CS_Using_HashSet.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\CS_Using_HashSet\CS_Using_HashSet\obj\Debug\net6.0\CS_Using_HashSet.dll
+C:\Users\jacob\source\repos\CS_Using_HashSet\CS_Using_HashSet\obj\Debug\net6.0\refint\CS_Using_HashSet.dll
+C:\Users\jacob\source\repos\CS_Using_HashSet\CS_Using_HashSet\obj\Debug\net6.0\CS_Using_HashSet.pdb
+C:\Users\jacob\source\repos\CS_Using_HashSet\CS_Using_HashSet\obj\Debug\net6.0\CS_Using_HashSet.genruntimeconfig.cache
+C:\Users\jacob\source\repos\CS_Using_HashSet\CS_Using_HashSet\obj\Debug\net6.0\ref\CS_Using_HashSet.dll
